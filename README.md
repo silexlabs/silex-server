@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> This project has moved to the Silex monorepo: https://short.silex.me/code
+>
+> Please open issues and pull requests there.
+
+
 # Silex Server (Rust)
 
 A Rust implementation of the Silex website builder server, providing storage and hosting connectors for website management.
